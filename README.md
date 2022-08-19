@@ -6,7 +6,7 @@ Original images source:
 - Rahman Tawsifur, Khandakar Amith, Qiblawey Yazan, et al. Exploring the effect of image enhancement techniques on COVID-19 detection using chest X-ray images Computers in biology and medicine. 2021;132:104319.
 
 If using, please reference: 
-- Baffa, M. F. O., Coelho, A. M., Felipe, J. C. (2022). A Multi-Class Approach for COVID-19 and Viral Pneumonia Differentiation Using Radiomic Features and Deep Learning. To be published.
+- Baffa, M. F. O., Coelho, A. M., Felipe, J. C. (2022). COVID-19 and Viral Pneumonia Classification Using Radiomic Features and Deep Learning. To be published.
 
 Dataset Attributes:
 
