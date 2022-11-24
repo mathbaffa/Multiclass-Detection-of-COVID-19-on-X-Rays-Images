@@ -6,7 +6,7 @@ Original images source:
 - Rahman Tawsifur, Khandakar Amith, Qiblawey Yazan, et al. Exploring the effect of image enhancement techniques on COVID-19 detection using chest X-ray images Computers in biology and medicine. 2021;132:104319.
 
 If using, please reference: 
-- Baffa, M. F. O., Coelho, A. M., Felipe, J. C. (2022). COVID-19 and Viral Pneumonia Classification Using Radiomic Features and Deep Learning. To be published.
+BAFFA, M. F. O.; MARTINS, F. L. L.; COELHO, A. M.; FELIPE, J. C. . COVID-19 and Viral Pneumonia Classification Using Radiomic Features and Deep Learning. In: IEEE/ACM 16th International Conference on Signal Image Technology and Internet-Based Systems (SITIS 2022), 2022, Dijon, França. Proceedings of 16th International Conference on Signal Image Technology and Internet-Based Systems, 2022.
 
 Dataset Attributes:
 
